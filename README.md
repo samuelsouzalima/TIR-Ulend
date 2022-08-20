@@ -17,11 +17,10 @@ https://warren.com.br/magazine/taxa-interna-de-retorno-tir/
 
 Como Intalar: 
 Utilizando: Python 3.9.2
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python get-pip.py
-pip install numpy-financial
-
-No Terminal bash rodar: 
-Python main.py
+ - Abrir o terminal bash.
+ - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+ - python get-pip.py
+ - pip install numpy-financial
+ - python main.py
 
 
